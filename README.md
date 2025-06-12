@@ -174,8 +174,4 @@ This project is open source and available under the MIT License.
 
 ## Support
 
-For support, feature requests, or bug reports, please create an issue in the project repository.![image](https://github.com/user-attachments/assets/beb7c7bb-8ccd-4ff5-a0ff-09b7670e987e)
-![image](https://github.com/user-attachments/assets/fd5da48e-bf1d-429c-aebf-be5a4d5a26f1)
-![image](https://github.com/user-attachments/assets/6d6ddf94-4ee3-484a-bb70-d1c0bd81d7bf)
-![image](https://github.com/user-attachments/assets/954fd7ce-c3d1-4010-b9b6-db0a545e1667)
-![image](https://github.com/user-attachments/assets/57f66924-8822-4ead-b169-455ccbe1cc51)
+For support, feature requests, or bug reports, please create an issue in the project repository.
