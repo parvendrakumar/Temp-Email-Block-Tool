@@ -1,3 +1,5 @@
+<img width="1067" height="606" alt="image" src="https://github.com/user-attachments/assets/7f466def-8d28-49f3-8fdd-82971884c1c8" />
+
 # Temp Email Block Tool - HTML/CSS/PHP Version
 
 A comprehensive email validation tool to detect and block temporary/disposable email addresses. Built with pure HTML, CSS, JavaScript, and PHP for maximum compatibility and performance.
